@@ -1,0 +1,14 @@
+{
+  "name": "proyecto_juego",
+  "version": "1.0.0",
+  "description": "Juego de plataformas creado por Amarok i Miguel",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Amarok",
+  "license": "ISC",
+  "dependencies": {
+    "phaser": "^3.80.1"
+  }
+}
